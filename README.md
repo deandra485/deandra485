@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=evcadhan021.evcadhan021)
+[Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=deandra485.deandra485)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=33A1FF&lines=BackAnd+Developer;Laravel+FrameWork;PHP+Language)](https://git.io/typing-svg)
 
@@ -13,13 +13,13 @@ I love learning new things and sharing knowledge.
 
 I'll be super focused if I get an error in my code.
 -
-*evcadhan021/evcadhan021* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*deandra485/deandra485* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on random mini projects
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on Big company and freelancer
 - 🤔 I’m looking for help with mentor and teammates
-- 💬 Ask me about application android and iOS
+- 💬 Ask me about application web
 - ⚡ Fun fact: I like sports, making money, business, investing, gaming room, motor sports, outfits.
 
 📫 How to reach me: via Instagram, Telegram, or Email
@@ -33,7 +33,7 @@ I'll be super focused if I get an error in my code.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
