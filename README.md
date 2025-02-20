@@ -6,7 +6,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deandra485&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- my name is Muhammad ramdhan call me 'ndan',
+ my name is Deandra Putra Wiguna call me 'Andra',
  I'm a mobile developer since 2022, and I'm pretty active in making iOS and Android apps, then new projects, team collaborations. 
 
 I love learning new things and sharing knowledge. 
