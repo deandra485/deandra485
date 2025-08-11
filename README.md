@@ -1,6 +1,6 @@
 [Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=deandra485.deandra485)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=33A1FF&lines=BackAnd+Developer;Laravel+FrameWork;PHP+Language)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=33A1FF&lines=BackAnd+Developer;Laravel+FrameWork;PHP+Language;Mobile+Developer;Flutter+FrameWork;Dart+language)](https://git.io/typing-svg)
 
 <h1 align="center">Hi there everyone, 👋</h1>
 
