@@ -1,47 +1,65 @@
-[Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=deandra485.deandra485)
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Deandra%20Putra%20Wiguna&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=33A1FF&lines=BackAnd+Developer;Laravel+FrameWork;PHP+Language;Mobile+Developer;Flutter+FrameWork;Dart+language)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33A1FF&center=true&vCenter=true&width=500&lines=Mobile+App+Specialist;Laravel+Backend+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
-<h1 align="center">Hi there everyone, 👋</h1>
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deandra485&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>Halo! Saya <b>Andra</b>, seorang developer yang fokus pada ekosistem <b>Flutter</b> dan <b>Laravel</b>. Sejak 2022, saya sudah "menyelam" di dunia Mobile Development.</p>
+      <ul>
+        <li>🔭 <b>Status:</b> Exploring Mini Projects</li>
+        <li>🌱 <b>Lagi Belajar:</b> Laravel Advanced & Cloud Deployment</li>
+        <li>💬 <b>Tanya Saya:</b> Mobile Apps & Web Logic</li>
+        <li>⚡ <b>Hobi:</b> Motorsports, Investing, & Gaming</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Activity Graph</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=deandra485&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+    </td>
+  </tr>
+</table>
 
- my name is Deandra Putra Wiguna call me 'Andra',
- I'm a mobile developer since 2022, and I'm pretty active in making iOS and Android apps, then new projects, team collaborations. 
+---
 
-I love learning new things and sharing knowledge. 
+### 💻 My Tech Stack
 
-I'll be super focused if I get an error in my code.
--
-*deandra485/deandra485* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on random mini projects
-- 🌱 I’m currently learning Laravel
-- 👯 I’m looking to collaborate on Big company and freelancer
-- 🤔 I’m looking for help with mentor and teammates
-- 💬 Ask me about application web
-- ⚡ Fun fact: I like sports, making money, business, investing, gaming room, motor sports, outfits.
-
-📫 How to reach me: via Instagram, Telegram, or Email
-
-<a href="https://instagram.com/deandra485"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" width="40" height="40"></a>
-<a href="https://telegram.com/deandra485"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/telegram.svg" width="40" height="40"></a>
-
-
-### Languages and Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,js,mysql,postman,git,github,vscode&perline=5" />
 </p>
 
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deandra485&show_icons=true&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deandra485&layout=compact&theme=light)
+### 📈 Contribution & Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deandra485&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deandra485&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="170" />
+</p>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+### 🤝 Let's Connect!
+
+<p align="center">
+<a href="https://instagram.com/deandra485"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/deandra485"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deandra485.deandra485&left_color=gray&right_color=00b4d8" />
+</p>
+
+</div>
